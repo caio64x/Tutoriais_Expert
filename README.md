@@ -8,18 +8,19 @@
 
 ### Sobre
 
-Os tutoriais estão sendo desenvolvolvidos gradativamente.
+Os tutoriais estão sendo desenvolvidos gradativamente.
 Tutoriais disponiveis
 
 - [x] Emissão de NFCE
 - [x] Emissão de NFE
 - [x] Como gerar o sintegra
 - [x] Entrada de produtos completa
-- [x] Como CORRIGIR PROBLEMAS COM O GMAIL
+- [x] Como corrigir problemas com o gmail
 - [x] Como baixar manualmente o xml de uma nota fiscal 
 - [x] Como resolver turno em processo de fechamento
 - [x] Como verificar o tamanho da etiqueta
 - [x] Como utilizar o Portal do Contador
+- [x] Como exportar produtos para balança
 
 
 
