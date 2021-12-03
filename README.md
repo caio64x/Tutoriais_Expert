@@ -20,6 +20,7 @@ Tutoriais disponiveis
 - [x] Como resolver turno em processo de fechamento
 - [x] Como verificar o tamanho da etiqueta
 - [x] Como utilizar o Portal do Contador
+- [x] Como exportar produtos para balança
 
 
 
