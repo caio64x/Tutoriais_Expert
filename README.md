@@ -8,7 +8,7 @@
 
 ### Sobre
 
-Os tutoriais estão sendo desenvolvolvidos gradativamente.
+Os tutoriais estão sendo desenvolvidos gradativamente.
 Tutoriais disponiveis
 
 - [x] Emissão de NFCE
