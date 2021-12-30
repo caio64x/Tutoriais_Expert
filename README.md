@@ -15,7 +15,8 @@ Tutoriais disponiveis
 - [x] Emissão de NFE
 - [x] Como gerar o sintegra
 - [x] Entrada de produtos completa
-- [x] Como corrigir problemas com o gmail
+- [x] Como CORRIGIR O GMAIL
+- [x] Como CORRIGIR O OUTLOOK-HOTMAIL
 - [x] Como baixar manualmente o xml de uma nota fiscal 
 - [x] Como resolver turno em processo de fechamento
 - [x] Como verificar o tamanho da etiqueta
