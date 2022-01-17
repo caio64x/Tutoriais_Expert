@@ -9,7 +9,7 @@
 ### Sobre
 
 Os tutoriais estão sendo desenvolvidos gradativamente.
-Tutoriais disponiveis
+Tutoriais disponiveis.
 
 - [x] Emissão de NFCE
 - [x] Emissão de NFE
