@@ -3,7 +3,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-<img  width="320" height="250" src="https://www.expertsistemas.com/images/LogoExpert.png" alt="Expert Sistemas">
+<img src="https://www.expertsistemas.com/images/LogoExpert.png"  width="320" height="250" alt="Expert Sistemas">
 
 
 ### Sobre
