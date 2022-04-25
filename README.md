@@ -23,6 +23,7 @@ Tutoriais disponiveis
 - [x] Como utilizar o Portal do Contador
 - [x] Como exportar produtos para balança
 - [x] Como Emitir NFe Devolução 
+- [x] Como Baixar Nota por Consulta NFe
 
 
 
