@@ -24,6 +24,7 @@ Tutoriais disponiveis.
 - [x] Como exportar produtos para balança
 - [x] Como Emitir NFe Devolução 
 - [x] Como Baixar Nota por Consulta NFe
+- [x] Como realizar Balanço de Estoque
 
 
 
