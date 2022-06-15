@@ -3,7 +3,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGmgc…eta&t=KqX-zpCHWXf833vn5JduRBJGnI694MR8uvfuJ9Xqwe0">
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGmgcJLsaCILA/company-logo_200_200/0/1592426049355?e=1663200000&v=beta&t=KqX-zpCHWXf833vn5JduRBJGnI694MR8uvfuJ9Xqwe0">
 
 
 ### Sobre
