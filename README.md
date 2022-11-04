@@ -26,6 +26,10 @@ Tutoriais disponiveis:
 - [x] Como realizar Balanço de Estoque
 - [x] COMO CANCALAR UMA NFE
 - [x] Como Utilizar o Multi Loja
+- [x] Como Gerar Relatório de PIS CONFINS
+- [x] Como Gerar Relatório de Produtos Monofásicos
+- [x] Gerar Relatório Financeiro para Contabilidade
+- [x] Gerar Relatório para Contabilidade
 
 
 
