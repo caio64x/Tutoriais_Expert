@@ -30,6 +30,7 @@ Tutoriais disponiveis:
 - [x] Como Gerar Relatório de Produtos Monofásicos
 - [x] Gerar Relatório Financeiro para Contabilidade
 - [x] Gerar Relatório para Contabilidade
+- [x] Como Reabrir uma Venda
 
 
 
