@@ -31,7 +31,8 @@ Tutoriais disponiveis:
 - [x] Gerar Relatório Financeiro para Contabilidade
 - [x] Gerar Relatório para Contabilidade
 - [x] Como Reabrir uma Venda
-
+- [x] Como Alterar Data de entrada para que possa gerar o Sintegra
+- [x] Gerar Relatório do Valor Emitido de NFCe
 
 
 [⬆ Voltar ao topo](#Tutoriais_Expert)<br>
